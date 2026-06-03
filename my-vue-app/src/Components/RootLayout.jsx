@@ -8,7 +8,6 @@ const RootLayout = () => {
         <div>
            <Home/>
             <Outlet/>
-            
             <Footer/>
         </div>
     );

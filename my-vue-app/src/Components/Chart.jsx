@@ -7,7 +7,7 @@ const Stats = () => {
         { name: 'Call', value: 30 },
         { name: 'Video', value: 30 },
     ];
-    const COLORS = ['#0088FE', '#00C49F', '#FFBB28'];
+    const COLORS = ['blue', 'green', 'yellow'];
 
     return (
         <div className="p-8">
