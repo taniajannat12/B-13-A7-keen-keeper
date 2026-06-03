@@ -1,9 +1,13 @@
-Project Overview: KeenKeeper is a dedicated friendship management platform designed to help users stay connected, nurture meaningful relationships, and track interaction history effectively.
+Project Name: KeenKeeper
 
-Core Features: The application includes intelligent friend status tracking (Overdue, Almost Due, On-track), a comprehensive interaction timeline, and data-driven insights through visual analytics.
+Short Description: KeenKeeper is an intuitive friendship management platform designed to help users nurture meaningful relationships by tracking interaction history, setting contact goals, and monitoring connection health.
 
-Tech Stack: It is built using React.js for a dynamic user interface, Tailwind CSS for responsive styling, and React Router DOM for seamless page navigation.
+Technologies Used: React.js, Tailwind CSS, React Router DOM, Recharts, and JSON for local data storage.
 
-Data Handling: The project utilizes a structured JSON-based data architecture to store individual friend profiles, including bios, tags, contact goals, and history logs.
+3 Key Features:
 
-User Experience: Key enhancements include a personalized "Quick Check-In" system, interactive Recharts-based statistics, and an intuitive, mobile-friendly design that adheres to strict UI/UX standards.
+Interaction Timeline: Automatically logs and displays a visual history of all calls, texts, and video interactions with friends.
+
+Status & Goal Tracking: Provides real-time status updates (Overdue, Almost Due, On-track) for each friend to ensure you never lose touch.
+
+Friendship Analytics: Features a dynamic Pie Chart to visualize your communication habits and interaction trends across different contact types.
