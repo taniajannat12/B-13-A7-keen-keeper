@@ -6,13 +6,14 @@
     "email": "sarah.jenkins@gmail.com",
     "days_since_contact": 35,
     "status": "overdue",
-    "tags": [
-      "college",
-      "close friend"
-    ],
+    "tags": ["college", "close friend"],
     "bio": "Roommates during sophomore year. Always up for a coffee chat.",
     "goal": 14,
-    "next_due_date": "2026-05-11"
+    "next_due_date": "2026-05-11",
+    "timeline": [
+      { "id": "t1", "type": "meetup", "text": "Meetup with Sarah", "date": "May 20, 2026" },
+      { "id": "t2", "type": "text", "text": "Text about project", "date": "May 15, 2026" }
+    ]
   },
   {
     "id": 2,
@@ -21,13 +22,11 @@
     "email": "m.thorne88@outlook.com",
     "days_since_contact": 12,
     "status": "almost due",
-    "tags": [
-      "hiking",
-      "travel buddy"
-    ],
+    "tags": ["hiking", "travel buddy"],
     "bio": "Met on a backpacking trip in Peru. Planning our next mountain trek.",
     "goal": 14,
-    "next_due_date": "2026-05-27"
+    "next_due_date": "2026-05-27",
+    "timeline": []
   },
   {
     "id": 3,
@@ -36,13 +35,11 @@
     "email": "elena.rod@designstudio.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": [
-      "work",
-      "mentor"
-    ],
+    "tags": ["work", "mentor"],
     "bio": "Former senior designer who taught me the ropes. Great advice on career growth.",
     "goal": 30,
-    "next_due_date": "2026-06-15"
+    "next_due_date": "2026-06-15",
+    "timeline": []
   },
   {
     "id": 4,
@@ -51,13 +48,11 @@
     "email": "dchen_dev@protonmail.com",
     "days_since_contact": 62,
     "status": "overdue",
-    "tags": [
-      "coding",
-      "gym"
-    ],
+    "tags": ["coding", "gym"],
     "bio": "Workout partner and fellow developer. We keep each other accountable.",
     "goal": 7,
-    "next_due_date": "2026-03-24"
+    "next_due_date": "2026-03-24",
+    "timeline": []
   },
   {
     "id": 5,
@@ -66,13 +61,11 @@
     "email": "priya.sharma.arts@yahoo.com",
     "days_since_contact": 8,
     "status": "on-track",
-    "tags": [
-      "book club",
-      "art"
-    ],
+    "tags": ["book club", "art"],
     "bio": "Co-founder of our local book club. She has incredible taste in literature.",
     "goal": 21,
-    "next_due_date": "2026-06-05"
+    "next_due_date": "2026-06-05",
+    "timeline": []
   },
   {
     "id": 6,
@@ -81,12 +74,11 @@
     "email": "loconnor@engineering.ie",
     "days_since_contact": 10,
     "status": "almost due",
-    "tags": [
-      "childhood friend"
-    ],
+    "tags": ["childhood friend"],
     "bio": "Best friend since primary school. Despite the distance, we talk regularly.",
     "goal": 14,
-    "next_due_date": "2026-05-29"
+    "next_due_date": "2026-05-29",
+    "timeline": []
   },
   {
     "id": 7,
@@ -95,13 +87,11 @@
     "email": "aisha.bello@impact.org",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": [
-      "volunteer",
-      "activist"
-    ],
+    "tags": ["volunteer", "activist"],
     "bio": "Met while volunteering at the community garden. Passionate about sustainability.",
     "goal": 30,
-    "next_due_date": "2026-06-20"
+    "next_due_date": "2026-06-20",
+    "timeline": []
   },
   {
     "id": 8,
@@ -110,13 +100,11 @@
     "email": "hiroshi.t@techcorp.jp",
     "days_since_contact": 45,
     "status": "overdue",
-    "tags": [
-      "business",
-      "professional"
-    ],
+    "tags": ["business", "professional"],
     "bio": "Collaborated on a project last year. Very insightful industry perspective.",
     "goal": 30,
-    "next_due_date": "2026-04-10"
+    "next_due_date": "2026-04-10",
+    "timeline": []
   },
   {
     "id": 9,
@@ -125,13 +113,11 @@
     "email": "c.dupont@frenchcooking.fr",
     "days_since_contact": 13,
     "status": "almost due",
-    "tags": [
-      "hobby",
-      "cooking"
-    ],
+    "tags": ["hobby", "cooking"],
     "bio": "Met in a culinary workshop. We exchange recipes every month.",
     "goal": 14,
-    "next_due_date": "2026-05-28"
+    "next_due_date": "2026-05-28",
+    "timeline": []
   },
   {
     "id": 10,
@@ -140,12 +126,10 @@
     "email": "samir.a@dataanalytics.com",
     "days_since_contact": 5,
     "status": "on-track",
-    "tags": [
-      "tech",
-      "friends"
-    ],
+    "tags": ["tech", "friends"],
     "bio": "College friend from engineering. We discuss new tech trends often.",
     "goal": 14,
-    "next_due_date": "2026-06-08"
+    "next_due_date": "2026-06-08",
+    "timeline": []
   }
 ]
