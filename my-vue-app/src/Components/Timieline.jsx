@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const Timeline = () => {
+const Timieline = () => {
     const [timelineData, setTimelineData] = useState([]);
 
     useEffect(() => {
@@ -44,4 +44,4 @@ const Timeline = () => {
     );
 };
 
-export default Timeline;
+export default Timieline;
